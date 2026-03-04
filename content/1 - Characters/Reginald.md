@@ -5,6 +5,7 @@ tags:
   - NPC
 aliases:
   - Reginald King
+title: Reginald King
 ---
 
 # Description

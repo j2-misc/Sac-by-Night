@@ -3,6 +3,9 @@ tags:
   - Banu-Haqim
   - Camarilla
   - NPC
+title: Kabir Rafati
+aliases:
+  - Kabir Rafati
 ---
 
 # Description

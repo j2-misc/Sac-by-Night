@@ -3,6 +3,7 @@ tags:
   - Nosferatu
   - Camarilla
   - NPC
+title: The Talon
 ---
 # Description
 *Written by the Storyteller*

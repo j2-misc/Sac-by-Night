@@ -3,6 +3,9 @@ tags:
   - Brujah
   - Anarchs
   - PC
+aliases:
+  - Thalia Kairos
+title: Thalia Kairos
 ---
 # Description
 *Written by Thalia's player*

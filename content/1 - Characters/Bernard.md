@@ -4,6 +4,7 @@ aliases:
 tags:
   - Ventrue
   - NPC
+title: Father Bernard
 ---
 # Description
 Pending

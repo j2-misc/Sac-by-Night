@@ -3,6 +3,7 @@ tags:
   - Banu-Haqim
   - Camarilla
   - PC
+title: Gabriela Sofia Ortega De la Cruz
 ---
 # Description
 ## Appearance

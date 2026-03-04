@@ -3,6 +3,7 @@ tags:
   - Camarilla
   - PC
   - Tremere
+title: Calimastia Ayton
 ---
 # Description
 *Written by Calimastia's Player*

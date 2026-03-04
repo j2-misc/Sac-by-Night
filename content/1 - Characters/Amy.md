@@ -5,6 +5,7 @@ tags:
   - Malkavian
   - Camarilla
   - NPC
+title: Amy Yu
 ---
 # Description
 *Written by the Storyteller*

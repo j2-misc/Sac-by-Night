@@ -5,6 +5,7 @@ tags:
   - Banu-Haqim
 aliases:
   - Jackal
+title: The Jackal
 ---
 # Description
 *Written by The Jackal's player*

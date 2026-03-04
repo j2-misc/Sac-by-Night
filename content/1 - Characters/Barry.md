@@ -5,6 +5,7 @@ tags:
   - Camarilla
   - NPC
   - Ventrue
+title: Barry Brickhouse
 ---
 # Description
 *Written by the Storyteller*

@@ -2,6 +2,7 @@
 tags:
   - Giovanni
   - NPC
+title: Fiora Giovanni
 ---
 # Description
 *Written by the Storyteller*

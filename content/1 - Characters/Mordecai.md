@@ -4,6 +4,7 @@ tags:
 aliases:
   - Hayes
   - Lieutenant Hayes
+title: Lieutenant Hayes
 ---
 # Description
 *Written by the Storyteller*

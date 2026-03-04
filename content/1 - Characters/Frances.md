@@ -5,6 +5,7 @@ tags:
   - PC
 aliases:
   - Father Frances
+title: Father Frances
 ---
 # Description
 *Written by Frances's player*

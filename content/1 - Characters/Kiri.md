@@ -5,6 +5,7 @@ tags:
   - Anarchs
   - Brujah
   - NPC
+title: Kiri Sol
 ---
 # Description
 *Written by the Storyteller*

@@ -3,6 +3,10 @@ tags:
   - Camarilla
   - Tremere
   - PC
+title: Simon Lefebvre
+aliases:
+  - Sim
+  - Simon Lefebvre
 ---
 # Description
 *Written by Simon's player*

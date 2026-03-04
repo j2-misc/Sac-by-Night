@@ -5,6 +5,7 @@ tags:
   - Ventrue
 aliases:
   - Mark Sterner
+title: Mark Sterner
 ---
 # Description
 *Written by the Storyteller*

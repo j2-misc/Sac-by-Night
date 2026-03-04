@@ -5,6 +5,7 @@ tags:
   - Camarilla
 aliases:
   - Carrie Bryant
+title: Carrie Bryant
 ---
 # Description
 *Written by the Storyteller*

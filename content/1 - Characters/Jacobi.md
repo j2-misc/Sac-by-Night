@@ -5,6 +5,7 @@ tags:
   - NPC
 aliases:
   - Archmage Jacobi
+title: Archmage Jacobi
 ---
 # Description
 *Written by the Storyteller*

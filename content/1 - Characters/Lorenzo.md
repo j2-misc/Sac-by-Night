@@ -4,6 +4,7 @@ aliases:
 tags:
   - Anarchs
   - NPC
+title: Father Lorenzo
 ---
 # Description
 *Written by the Storyteller*

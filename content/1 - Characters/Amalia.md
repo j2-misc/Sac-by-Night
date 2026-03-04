@@ -8,6 +8,7 @@ aliases:
   - Lady White
   - Lady Amalia White
   - Amalia White
+title: Lady Amalia White
 ---
 # Description
 *Written by the Storyteller*

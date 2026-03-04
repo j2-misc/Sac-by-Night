@@ -5,6 +5,8 @@ tags:
   - Tremere
 aliases:
   - Irene Ducheski
+  - the other Ayton
+title: Irene Ducheski
 ---
 # Description
 *Written by [[Calimastia]]'s player*

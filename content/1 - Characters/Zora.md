@@ -3,6 +3,9 @@ tags:
   - Banu-Haqim
   - Camarilla
   - Clan
+aliases:
+  - Zora Tazri
+title: Zora Tazri
 ---
 # Description
 *Written by the Storyteller*

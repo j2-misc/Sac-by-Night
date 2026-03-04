@@ -9,6 +9,7 @@ aliases:
   - Joey White
   - Josephine White
   - The Scorned
+title: Josephine White
 ---
 # Description
 *Written by the Storyteller*
