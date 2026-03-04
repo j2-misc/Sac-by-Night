@@ -39,7 +39,7 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
-        darkMode: {
+        /*darkMode: {
           light: "#161618",
           lightgray: "#393639",
           gray: "#646464",
@@ -49,7 +49,18 @@ const config: QuartzConfig = {
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#b3aa0288",
-        },
+        },*/
+        darkMode: {
+          light: "#161618",
+          lightgray: "#0c0004",
+          gray: "#8b0202",
+          darkgray: "#d4d4d4",
+          dark: "#ebebec",
+          secondary: "rgb(150, 36, 61)",
+          tertiary: "#a86464",
+          highlight: "rgba(143, 159, 169, 0.15)",
+          textHighlight: "#b3aa0288",
+        }
       },
     },
   },
