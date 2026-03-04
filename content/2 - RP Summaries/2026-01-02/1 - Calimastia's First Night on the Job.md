@@ -1,0 +1,5 @@
+*2026-03-02 10:24 - 13:30 PST*
+
+[[Calimastia]]'s first night as [[Sheriff]] saw her dispatched by the [[Seneschal]] to investigate rumors of [[Anarchs|Anarch]] activity in Midtown. She borrowed the [[Tremere]]'s company vehicle, a *Chevy Silverado*, and drove it to consult with a member of her herd. He informed her of some pale bikers who'd taken up to tagging the area around his store, and after she fed she left to confront them.
+
+The confrontation was brutal and swift, leaving one chopped in half, one injured, and another (ghoul) paralyzed in fear. The injured kindred, a [[Brujah]], she decided to take to [[Carrie|Carrie Bryant]], a [[Camarilla]] [[Brujah]] with little interest in politics. After some conversation, and some intimidation, she managed to convince [[Carrie|Carrie]] to raise the [[Brujah]] as a fine, upstanding [[Camarilla]] Or at least do what she could ("A trivial boon for your time. A minor boon if you can make this work"). The ghoul, she let go with a warning.

@@ -1,0 +1,5 @@
+*2026-02-24 20:30 - 22:53 PST*
+
+December 28th. It was a cold, foggy evening, and [[Gabriela]] was shaken by the news of [[Kabir]]'s failed assassination, and the likely [[Tzimisce]] culprit. She went on the hunt, finding a dealer who was selling to children. She nearly botched the attempt, but managed to knock him out and drink his blood without being caught. Then, she drove to the police station.
+
+This was a regular occurrence for her. In fact, she was working (albeit loosely) with the police. This time, though, she was informed of a new Lieutenant who wanted to speak with her. At that time of night, it was odd. Once she was in a room with him, [[Mordecai|Lieutenant Mordecai Hayes]] informed her of a recent attack on one of his police officers in [[Sutter Park]]. One only a vampire could do. He knew what she was and knew she might be able to help. She agreed. She was already looking for a [[Tzimisce]] anyways.

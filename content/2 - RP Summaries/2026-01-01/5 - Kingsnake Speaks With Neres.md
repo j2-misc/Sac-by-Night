@@ -1,0 +1,5 @@
+*2026-03-02 19:51 - 21:49*
+
+[[Kingsnake]] helped clean up the [[Sacramento History Museum]] in the wake of the [[1 - Raid on Sac History Museum|earlier raid]]. [[Kingsnake]] lamented her failure and [[Neres]] addressed her by her real name, [[Kingsnake|Phoebe]], offered some wisdom. [[Neres]] was the only [[Setite]] in Sacramento because she was the only [[Setite]] she tolerated in Sacramento. She believed the others of her clan were fundamentally mistaken in their belief that [[Setite|Set]] demands evil, disguised as the subversion of traditional morality. This was hypocritical, a definition by opposition. In effect, they stood for nothing. [[Neres]] had the same problem with the [[Anarchs]].
+
+Afterwards, [[Kingsnake]] informed [[Neres]] about her earlier encounter with [[Irene]]. [[Neres]] gave some context, that [[Irene]] was a [[Ductus]], a leader within the [[Sabbat]].

@@ -1,0 +1,3 @@
+*2026-03-02 10:42 - 12:10 PST*
+
+[[Frances]] returned to [[The Cathedral of Blessed Sacrament]] where he dropped off [[Barry|Barry Brickhouse]] and spoke with another man. He was a priest visiting from outside California, [[Lorenzo|Father Lorenzo]]. They spoke of Godly things and carried the [[Sheriff]] inside. After their grim work was done, they partook in communion, eating the body and drinking the blood of Christ.

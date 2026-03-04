@@ -1,0 +1,1 @@
+Summaries are organized in folders by the date they took place canonically (YYYY-MM-DD format). At the top of each summary is an approximation of the time and date they actually took place in real life in PST.
