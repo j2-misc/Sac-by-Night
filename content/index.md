@@ -1,12 +1,16 @@
+---
+title: Home
+---
+
 # What is this?
 This is an out of character wiki for the ongoing play-by-post chronicle, Sacramento by Night. Information you might see here is not necessarily public knowledge, so be sure to ask any relevant parties before assuming you know something!
 
-| Folder       | Content                                                                                                                                                                                                         |
-| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| World        | Articles containing details about everything in the world that isn't a character                                                                                                                                |
-| Characters   | Articles containing details about characters                                                                                                                                                                    |
-| RP Summaries | Summaries of scenes roleplayed on server                                                                                                                                                                        |
-| Misc         | Miscellaneous articles pertaining to the game. These may include in-character accounts of events, holistic summaries of entire plotlines, or other exercises in creative writing that don't quite fit elsewhere |
+| Folder       | Content                                                                                                                                                                                                                                                             |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| World        | Articles containing details about everything in the world that isn't a character.                                                                                                                                                                                   |
+| Characters   | Articles containing details about characters.                                                                                                                                                                                                                       |
+| RP Summaries | Summaries of scenes roleplayed on server. <br><br>Summaries are organized in folders by the date they took place canonically (YYYY-MM-DD format). At the top of each summary is an approximation of the time and date they actually took place in real life in PST. |
+| Misc         | Miscellaneous articles pertaining to the game. These may include in-character accounts of events, holistic summaries of entire plotlines, or other exercises in creative writing that don't quite fit elsewhere.                                                    |
 
 # Why? It's play-by-post everything's already written down
 Correct! But I hate searching through discord! It sucks ass! There's a lot of very cool stories that deserve to be preserved, and I think a wiki format helps with that. As such, I'll do as best I can to keep this website up to date with summaries and world details.
