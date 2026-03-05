@@ -7,6 +7,7 @@ aliases:
   - Mark Sterner
   - Sterner Holdings
   - Prince Sterner
+  - Sterner Enterprises
 title: Mark Sterner
 ---
 # Description

@@ -8,6 +8,6 @@ aliases:
 title: Jeremy MacNeil
 ---
 # Description
-Pending
+[[Thalia]]'s grandsire.
 # Recent History
 Pending

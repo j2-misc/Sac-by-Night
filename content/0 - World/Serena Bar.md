@@ -1,12 +1,9 @@
 ---
 tags:
-  - Tremere
+  - Location
   - Camarilla
-  - NPC
-aliases:
-  - James Holbrook
 ---
 # Description
-[[Simon]]'s sire.
+Pending.
 # Recent History
 Pending.

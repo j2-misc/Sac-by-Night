@@ -23,4 +23,8 @@ The same muscular Hispanic-Iranian man stands at 5'11", his presence sharper, co
 ## History
 Sired by [[Don Valentin Cabrera]].
 # Recent History
-Pending
+Recently [[Kaveh]] has taken [[Jensen]] under his care[^1]. At the same time, more and more he's been spending time with [[Thalia|Thalia Kairos]] doing work for the [[Anarchs]][^2].
+
+[^1]: [[3 - Kaveh and Jensen Go Hunting]], [[7 - Kaveh and Jensen]]
+
+[^2]: [[2 - Why Kaveh Joined the Anarchs, Search for Sabirah]], [[3 - Peaceful Protest]]

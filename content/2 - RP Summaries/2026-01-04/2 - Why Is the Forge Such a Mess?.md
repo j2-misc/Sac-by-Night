@@ -5,4 +5,4 @@ Upon nightfall, when [[Kaveh]] awoke from his injuries sustained the previous ni
 
 He couldn't promise that, but swore he'd be more careful at the very least.
 
-[^1]: [[2 - Kaveh and Thalia#Search for Sabirah]]
+[^1]: [[2 - Why Kaveh Joined the Anarchs, Search for Sabirah]]

@@ -15,8 +15,12 @@ Irene Ducheski is a shorter, slightly sunken woman, who is very clearly not huma
 # Recent History
 A [[Ductus]] of the [[Sabbat]], Irene has harassed [[Simon]] to try and get more information about [[Calimastia]]'s regular whereabouts[^1], negotiated for her girlfriend's release[^2], and has taken a particular interest in meeting with [[Neres]], perhaps to take advantage of her shaky alliance with the [[Anarchs]][^3].
 
+2026-03-04: Irene and [[Neres]] had the chance to meet over dinner[^4].
+
 [^1]: [[5 - Simon]]
 
 [^2]: [[1 - Raid on Sac History Museum]]
 
 [^3]: [[5 - Kingsnake Speaks With Neres]]
+
+[^4]: [[9 - Irene and Neres Go on a Date]]

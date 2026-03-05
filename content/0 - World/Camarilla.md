@@ -2,6 +2,8 @@
 tags:
   - Camarilla
   - Sect
+aliases:
+  - The Ivory Tower
 ---
 An organized, traditionalist sect of vampires who strictly enforce the Masquerade, among other traditions[^1].
 

@@ -7,6 +7,6 @@ tags:
 title: Father Bernard
 ---
 # Description
-Pending
+[[Jensen]]'s sire.
 # Recent History
 Pending
