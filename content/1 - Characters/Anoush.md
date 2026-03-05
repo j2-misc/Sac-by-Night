@@ -1,7 +1,7 @@
 ---
 title: Anoush Jindal
 aliases:
-  - Anoush
+  - Anoush Jindal
 tags:
   - Anarchs
   - Ravnos

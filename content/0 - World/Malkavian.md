@@ -3,6 +3,8 @@ tags:
   - Camarilla
   - Malkavian
   - Clan
+aliases:
+  - Malkavians
 ---
 One of the thirteen vampire clans[^1]. Represented on the [[Primogen|Primogen Council]] by [[Reginald|Reginald King]].
 

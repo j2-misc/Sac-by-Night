@@ -20,4 +20,4 @@ Frances was recently involved in the capture of [[Barry|Barry Brickhouse]][^1]. 
 
 [^1]: [[1 - Raid on Sac History Museum]]
 
-[^2]: [[4 - Frances Returns to the Cathedral]], [[4 - Gabriela and the Tzimisce]], [[6 - Kingsnake and Frances Do Some Bullshit]]
+[^2]: [[4 - Frances Returns to the Cathedral]], [[4 - Gabriela and the Tzimisce]], [[6 - Kingsnake Meets with Frances]]
