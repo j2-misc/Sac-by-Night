@@ -1,5 +1,9 @@
 *2026-03-03 18:13 - 23:45 PST*
 # Kaveh's Request
-*Title by Kaveh's player*
+*Title and Summary by Kaveh's player*
+
+A heavily injured [[Kaveh]](crippled state) gets dropped off by [[Thalia]] and enters the forge, he goes to the back(where the forge is) and drops his hammer making a loud noise, [[Jensen]] who is down stairs in his room is praying during this time, hearing the hammer drop on the floor [[Jensen]] finishes his prayer and heads over to the source of the noise only to find the injured [[Kaveh]], he asks if [[Kaveh]] is ok and [[Kaveh]] uses this to explain to [[Jensen]](a newly turned vampire) that vampires heal after having enough blood and sleeping, [[Kaveh]] almost collapse on the floor but [[Jensen]] is able to catch him, carrying [[Kaveh]] towards one of the couches in the lobby of [[Falcron Blacksmith|Falcron]], concerned [[Jensen]] asks [[Kaveh]] if he is sure about the whole vampire regeneration thing and asks if there is a way [[Jensen]] can help, [[Kaveh]] assures him that theres not much he can do unless [[Jensen]] wants to go out and get blood, a thing that [[Kaveh]] tries to sway [[Jensen]] from doing, as [[Kaveh]] struggles to properly breathe, he tells [[Jensen]] that he should be ok as long as no one attacks him in this state, [[Jensen]] still worried about [[Kaveh]] questions him on this and asks [[Kaveh]] if he is expecting someone to attack the forge, [[Kaveh]] responds saying that they are at war and the [[Camarilla]] will probably stop at nothing to get him to go back, [[Kaveh]] begins to feel like he is gonna pass out and asks [[Jensen]] to promise him something, the promise [[Kaveh]] asks [[Jensen]] to keep is this “if the [[Camarilla]] attack the forge, take ember and run away, dont try to fight them with me” [[Jensen]] hesitates before accepting but eventually agrees to it. [[Kaveh]] smiles and he passes out.
 # Defending the Forge
 *Title by Kaveh's player*
+
+Summary pending.

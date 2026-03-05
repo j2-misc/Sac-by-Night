@@ -1,4 +1,4 @@
 *2026-03-03 19:05 - 20:28 PST*
 *Title by Kaveh's player*
 
-Aka, [[Thalia]] and [[Gabriela]] do some bullshit
+[[Thalia]] and [[Gabriela]] were both out on the streets of Sacramento one night, looking to enforce their definition of justice. [[Thalia]], knowing [[Gabriela]] to be a [[Camarilla]] stopped her. She'd already caught a few of her sect skulking around trying to feed on innocents. She wanted to confirm [[Gabriela]] wasn't trying to do the same. The conversation grew more tense from there, with [[Thalia]] intent on making her case for the [[Anarchs]]. [[Gabriela]] didn't seem particularly receptive, but did ask about orphans. Some did take them in, and at least with [[Thalia]] there was no expectation to join the cause. As they parted, [[Gabriela]] asked who this land belonged to, to be answered at a later date.

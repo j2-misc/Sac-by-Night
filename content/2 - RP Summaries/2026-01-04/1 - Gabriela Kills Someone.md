@@ -1,2 +1,7 @@
 *2026-03-04 8:48 - 9:42 PST*
 
+[[Gabriela]] woke in the morning, starved of blood for days. [[Sam]] was absent. She immediately took to her car, and found a suitable bounty on an old cracked tablet. It was for a man named [[Bryce Olson]], who'd been accused of killing his wife after a domestic dispute. For whatever reason the case had stalled into legal limbo, and he'd made himself scarce. It took several agonizing hours of searching, but eventually, she found an address. An old abandoned house. She crept in, found her mark, and confronted him with the butt of her gun.
+
+> "Convince me you didn't kill your wife."
+
+This was something he did not attempt to do, though after some interrogation, she was able to find at least that he had a friend: a priest at [[The Cathedral of Blessed Sacrament|the old cathedral]]. This special friend was responsible for the stalling of his case. With that taken care of, [[Gabriela]] went to the other room and dialed 9-1-1. She gave them the address and told them that she'd heard a struggle and then nothing. Then, she walked back to [[Bryce Olson|Bryce]] and drank every last drop of blood from him. She only managed to snap out of it once she heard sirens in the distance.

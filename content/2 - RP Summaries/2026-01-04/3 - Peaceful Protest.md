@@ -1,0 +1,7 @@
+*2026-03-04 10:38 - 13:18 PST*
+
+[[Kaveh]] and [[Thalia]] attended a protest at [[Crocker Art]] in response to the recent violence. Gang violence to the mortals; [[Camarilla]] to the [[Anarchs]]. They spoke with [[Ally Barnes]], one of [[Thalia]]'s fellow activists, and provided her with some of [[Kaveh]]'s armor.
+
+In the crowd, they managed to spot a woman with short hair and a beanie whisper something to a protester. The protester then knelt to the ground, picked up a rock, and raised it to throw at a nearby cop. They managed to stop this, preventing the police from immediately charging in to beat the protesters, and then gave chase after the kindred who'd instigated it. Managing to confront her, they found this was none other than [[Joey|Joey White]], the [[Harpy]] of Sacramento, and the daughter of the [[Toreador]] [[Primogen]] [[Amalia|Lady Amalia White]]. They managed to leverage her dislike of kindred politics to convince her to leave [[Crocker Art]] to the thin bloods. She left with contact information for both [[Thalia]] and [[Kaveh]] as well as the hope this wouldn't trace back to her immediately.
+
+[[Ally Barnes|Ally]] made her way over to the two and asked them about the [[Toreador]]. She didn't seem to share [[Thalia]]'s contentment to work with people so thoroughly rooted in the [[Camarilla]]. They needed to be held accountable for their actions. [[Thalia]] seemed to push that particular end down the line. This was a war after all, they couldn't afford to be testing all their potential allies for moral purity.

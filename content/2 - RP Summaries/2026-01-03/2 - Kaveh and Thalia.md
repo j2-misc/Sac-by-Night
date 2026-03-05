@@ -12,7 +12,7 @@ Long ago, [[Kaveh]] walked the sleepless streets of Sacramento as though already
 > ~ [[Thalia]] to [[Kaveh]]
 
 Then he offered her a choice of two pins, both of an eagle, one with a gavel, one with a hammer. She took the one with the hammer as it represented the ability to create as well as destroy.
-# Back in the Present
+# Search for Sabirah
 [[Thalia]] and [[Kaveh]] worked together to rebuild after a night of violence. To this end, they met with [[Anoush Jindal|Anoush Jindal]]. He told them of his companion, [[Sabirah]], who'd been lost in the attacks on the art museum. He gave them an address to an [[Anarchs|Anarch]] owned restaurant operated by [[James Hernandez]] and requested they both soothe the [[Anarchs]]' mortal supporters as well as find anything they could about [[Sabirah]]'s whereabouts.
 
 Speaking with [[James Hernandez|James]] revealed that on New Year's Eve, [[Sabirah]] and some of her friends were at the restaurant. He gave them a few free drinks then out of nowhere the mood soured. They paid quickly and took off. Later a pair of men came in and asked where [[Sabirah]] had gone. He didn't want to tell them, but... then everything was a blur. Likely, they used Dominate on him, then headed toward [[East Lawn Memorial Park]].

@@ -3,6 +3,8 @@ tags:
   - Camarilla
   - Tremere
   - Clan
+aliases:
+  - Warlocks
 ---
 One of the thirteen vampire clans[^1]. Currently represented on the [[Primogen|Primogen Council]] by [[Jacobi|Archmage Jacobi]].
 

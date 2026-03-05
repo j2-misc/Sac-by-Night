@@ -2,7 +2,9 @@
 tags:
   - Giovanni
   - NPC
-title: Fiora Giovanni
+title: Fiora Milliner
+aliases:
+  - Fiora Milliner
 ---
 # Description
 *Written by the Storyteller*
