@@ -4,6 +4,8 @@ tags:
   - PC
   - Tremere
 title: Calimastia Ayton
+aliases:
+  - Calimastia Ayton
 ---
 # Description
 *Written by Calimastia's Player*

@@ -16,4 +16,4 @@ A 13th gen that was embraced *very* recently a couple weeks ago by [[Bernard|Fat
 # Recent History
 Presently, Jensen lives at the [[Falcron Blacksmith]] with [[Kaveh]], who seems to have taken on a mentorship role both toward Jensen as well as [[Ember]]. Recently, Jensen and [[Ember]] have begun training together[^1].
 
-[^1]: [[7 - Defending the Forge]]
+[^1]: [[7 - Kaveh and Jensen]]

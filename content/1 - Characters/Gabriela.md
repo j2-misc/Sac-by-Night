@@ -19,6 +19,6 @@ She was also loosely involved in the capture of [[Barry|Barry Brickhouse]][^3].
 
 [^1]: [[1 - Gabriela]], [[3 - Gabriela Reports to Zora]]
 
-[^2]: [[4 - Gabriela and the Tzimisce]], [[3 - Gabriela Does Some Bullshit]]
+[^2]: [[4 - Gabriela and the Tzimisce]], [[3 - Gabriela Fucks Up]]
 
 [^3]: [[1 - Raid on Sac History Museum]]

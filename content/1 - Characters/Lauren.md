@@ -19,4 +19,4 @@ There's some really cool stuff but it's a [[Camarilla]] secret, they have my add
 Pending[^1]
 %%
 
-[^1]: [[5 - Sim Does Some Bullshit]]
+[^1]: [[6 - Sim Returns to Elysium]]

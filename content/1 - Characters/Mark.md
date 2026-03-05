@@ -5,6 +5,8 @@ tags:
   - Ventrue
 aliases:
   - Mark Sterner
+  - Sterner Holdings
+  - Prince Sterner
 title: Mark Sterner
 ---
 # Description

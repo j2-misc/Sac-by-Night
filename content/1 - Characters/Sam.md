@@ -13,6 +13,6 @@ Since then she's stayed with [[Gabriela]] who, as it turns out, is not a particu
 
 [^2]: [[1 - Gabriela]]
 
-[^3]: [[3 - Gabriela Does Some Bullshit]]
+[^3]: [[3 - Gabriela Fucks Up]]
 
 [^4]: [[1 - Gabriela Kills Someone]]
