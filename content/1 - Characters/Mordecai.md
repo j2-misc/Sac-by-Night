@@ -4,6 +4,7 @@ tags:
 aliases:
   - Hayes
   - Lieutenant Hayes
+  - Lieutenant Mordecai Hayes
 title: Lieutenant Hayes
 ---
 # Description

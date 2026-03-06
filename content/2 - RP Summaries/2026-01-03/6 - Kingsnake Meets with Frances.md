@@ -11,3 +11,5 @@ Both discuss the complexities of the new war starting up and also the nature of 
 After the more existential talks, both then discuss what to do with sheriff [[Barry|Barry Brickhouse]], currently being held hostage in the cathedral, to which Frances says he will use him as a bargaining chip in negotiations. [[Kingsnake]] additionally asks for any whereabouts of prominent [[Gangrel]] besides [[Javier]] or [[Roger]], though [[Frances]] has no information on such matters.
 
 [[Kingsnake]] then goes to leave on a hunt, leaving [[Frances]] to tend to the cathedral.
+
+![[Cathedral Painting 1.png]]

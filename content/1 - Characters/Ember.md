@@ -4,7 +4,7 @@ tags:
   - Anarchs
 ---
 # Description
-An orphaned kindred essentially adopted by [[Kaveh]]
+A kindred sired by [[Kaveh]].
 # Recent History
 Recently, she and [[Jensen]] have begun training together[^1].
 
