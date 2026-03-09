@@ -3,9 +3,11 @@ tags:
   - Camarilla
   - PC
   - Tremere
+  - Sabbat
 title: Calimastia Ayton
 aliases:
   - Calimastia Ayton
+  - Ayton
 ---
 # Description
 *Written by Calimastia's Player*

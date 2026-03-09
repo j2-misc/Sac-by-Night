@@ -1,0 +1,3 @@
+*2026-03-07 20:54 - X PST*
+
+When [[Kaveh]] returned to his blacksmith he found his sire, [[Don Valentin Cabrera]], waiting for him. Their conversation was that of a father and son, and only after taking some time to catch up did they turn to matters of politics. [[Don Valentin Cabrera|Don Valentin]] wanted to convince [[Kaveh]] to stop working for the [[Anarchs]] as they were using his weapons for the same reasons as the kindred that caused him to leave the [[Camarilla]]. They didn't see eye to eye in the end, and [[Kaveh]] was wary of [[Kiri|Kiri Sol]] and her approach to the war, but he was loyal not to [[Kiri]] but to [[Thalia|Thalia Kairos]]. They smiled as they parted, promising to see each other again someday soon.

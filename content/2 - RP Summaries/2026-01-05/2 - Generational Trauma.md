@@ -44,7 +44,7 @@ They conversed during the drive. [[Sam]] asked about [[Gabriela]]'s history and 
 > *She casts a glance at Sam.*
 > "I know so. I am only as old as I am because Zora helped me get here. I owe a lot to that old woman."
 
-[[Sam]] expressed some apprehension about getting that old, that things might grow boring. [[Gabriela]] pushed back on that, and that seemed to convince her. Either way she didn't need to worry about it. In the end, they didn't go after another bounty, but instead visited the [[Malkavian]] cattle farms on the city's outskirts[^3].
+[[Sam]] expressed some apprehension about getting that old, that things might grow boring. [[Gabriela]] pushed back on that, and that seemed to convince her. Either way she didn't need to worry about it. In the end, they didn't go after another bounty, but instead visited the [[Malkavian Cattle Ranches]] on the city's outskirts[^3].
 
 [^1]: [[1 - Gabriela Kills Someone]]
 

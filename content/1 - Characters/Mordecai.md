@@ -5,7 +5,7 @@ aliases:
   - Hayes
   - Lieutenant Hayes
   - Lieutenant Mordecai Hayes
-title: Lieutenant Hayes
+title: Lieutenant Mordecai Hayes
 ---
 # Description
 *Written by the Storyteller*

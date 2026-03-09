@@ -17,7 +17,7 @@ At present, [[Kabir]]'s state has been largely ignored by the [[Primogen|Primoge
 
 [^1]: [[3 - Gabriela Reports to Zora]]
 
-[^2]: [[1 - Raid on Sac History Museum]], [[2 - Thalia Does Some Bullshit]] probably. I wouldn't know for sure >:(
+[^2]: [[1 - Raid on Sac History Museum]], [[content/2 - RP Summaries/2026-01-02/2 - Thalia Does Some Bullshit]] probably. I wouldn't know for sure >:(
 
 [^3]: [[3 - Peaceful Protest]]
 
