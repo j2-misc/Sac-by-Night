@@ -17,4 +17,4 @@ As it is the primary site of Elysium, it was the site where [[Calimastia]] ascen
 
 [^1]: [[2 - Calimastia Ascends to Sheriff]]
 
-[^2]: [[6 - Sim Returns to Elysium]]
+[^2]: [[6 - Simon Returns to Elysium]]

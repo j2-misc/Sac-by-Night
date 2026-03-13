@@ -17,4 +17,4 @@ Then he offered her a choice of two pins, both of an eagle, one with a gavel, on
 
 Speaking with [[James Hernandez|James]] revealed that on New Year's Eve, [[Sabirah]] and some of her friends were at the restaurant. He gave them a few free drinks then out of nowhere the mood soured. They paid quickly and took off. Later a pair of men came in and asked where [[Sabirah]] had gone. He didn't want to tell them, but... then everything was a blur. Likely, they used Dominate on him, then headed toward [[East Lawn Memorial Park]].
 
-There, they found two [[Ventrue]] goons (one named [[Johnny]]), got into a fight, and learned that [[Luke Grayson]] attacked and captured [[Sabirah]] that night. Reluctantly, the goons informed them that they'd likely be able to find [[Luke Grayson|Luke]] at [[Serena Bar]]. He also swore a minor boon to the both of them.
+There, they found two [[Ventrue]] goons ([[Johnny]] and [[Rob]]), got into a fight, and learned that [[Luke Grayson]] attacked and captured [[Sabirah]] that night. Reluctantly, the goons informed them that they'd likely be able to find [[Luke Grayson|Luke]] at [[Serena Bar]]. He also swore a minor boon to the both of them.

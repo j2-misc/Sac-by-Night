@@ -8,6 +8,7 @@ title: Calimastia Ayton
 aliases:
   - Calimastia Ayton
   - Ayton
+  - Cali
 ---
 # Description
 *Written by Calimastia's Player*

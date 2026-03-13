@@ -19,4 +19,4 @@ There's some really cool stuff but it's a [[Camarilla]] secret, they have my add
 Lauren has recently expressed some mix of frustration and concern to [[Simon|Sim]] over the current state of [[Jacobi|Archmage Jacobi]]. More specifically his obsession with ancient relics which she pinpoints at around the time when [[Dorian|Prince Dorian]] was slain[^1].
 %%
 
-[^1]: [[6 - Sim Returns to Elysium]]
+[^1]: [[6 - Simon Returns to Elysium]]

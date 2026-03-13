@@ -8,6 +8,7 @@ aliases:
   - Lady White
   - Lady Amalia White
   - Amalia White
+  - Miss White
 title: Lady Amalia White
 ---
 # Description

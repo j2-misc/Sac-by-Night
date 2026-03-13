@@ -2,6 +2,14 @@
 tags:
   - Malkavian
   - NPC
+  - Lasombra
+aliases:
+  - Saint
+  - Saint Lucia Santos
+  - Saint Lucia
+  - Saint Santos
+  - The Saint of Light
+  - La Santa de la Luz
 ---
 # Description
 A Spanish-speaking voice [[Reginald|Reginald King]] believes to be a [[Malkavian]] methuselah.

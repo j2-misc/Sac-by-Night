@@ -5,6 +5,7 @@ tags:
   - NPC
 aliases:
   - Archmage Jacobi
+  - Archmage
 title: Archmage Jacobi
 ---
 # Description

@@ -1,4 +1,4 @@
-*2026-03-08 16:33 - X PST*
+*2026-03-08 16:33 - 18:07 PST*
 
 [[Thalia]] met with [[Ally Barnes]] to ask about a request regarding the capture of one [[Oswald Foxglove|Oswald Foxglove]]. It turned out that [[Oswald Foxglove|Oswald]] was no small target. In fact, he'd been responsible for, and even taken pride in poisoning and killing over a dozen thin bloods.
 

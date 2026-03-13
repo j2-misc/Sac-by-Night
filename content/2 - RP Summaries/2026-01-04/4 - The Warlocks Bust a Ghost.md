@@ -20,4 +20,4 @@ Afterwards, they had some time to themselves so they simply conversed. About the
 
 [^3]: -2 diff to resist Appearance rolls, +2 diff to all Perception, +1 Diff to all Social
 
-[^4]: [[2 - Calimastia Ascends to Sheriff]], [[6 - Sim Returns to Elysium]]
+[^4]: [[2 - Calimastia Ascends to Sheriff]], [[6 - Simon Returns to Elysium]]
