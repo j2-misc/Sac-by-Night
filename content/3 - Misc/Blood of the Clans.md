@@ -7,13 +7,13 @@ Blood from each of the thirteen clans is required to awaken [[The Saint]][^1].
 # Checklist
 - [x] [[Banu Haqim]]
 - [x] [[Malkavian]]
-- [ ] [[Nosferatu]]
+- [x] [[Nosferatu]]
 - [ ] [[Toreador]]
-- [ ] [[Tremere]]
+- [x] [[Tremere]]
 - [ ] [[Ventrue]]
 
 - [ ] [[Brujah]]
-- [ ] [[Gangrel]]
+- [x] [[Gangrel]]
 - [ ] [[Ravnos]]
 - [ ] [[Setite]]
 

@@ -1,8 +1,8 @@
 *2026-03-08 16:33 - 18:07 PST*
 
-[[Thalia]] met with [[Ally Barnes]] to ask about a request regarding the capture of one [[Oswald Foxglove|Oswald Foxglove]]. It turned out that [[Oswald Foxglove|Oswald]] was no small target. In fact, he'd been responsible for, and even taken pride in poisoning and killing over a dozen thin bloods.
+[[Thalia]] met with [[Ally Barnes]] to ask about a request regarding the capture of one [[Oswald|Oswald Foxglove]]. It turned out that [[Oswald|Oswald]] was no small target. In fact, he'd been responsible for, and even taken pride in poisoning and killing over a dozen thin bloods.
 
-Since [[Oswald Foxglove|Oswald]] was a [[Nosferatu]] it would be difficult finding him, but [[Ally Barnes|Ally]] had an in. [[Ryu]], another [[Nosferatu]], had been taking people to safety with the thin bloods. [[Thalia]] met with him and he confirmed that [[Oswald Foxglove|Oswald]] was a monster. He told her that he worked in an underground area of a condemned research lab on the outskirts of the city, but it was more thoroughly trapped than the house from Home Alone.
+Since [[Oswald|Oswald]] was a [[Nosferatu]] it would be difficult finding him, but [[Ally Barnes|Ally]] had an in. [[Ryu]], another [[Nosferatu]], had been taking people to safety with the thin bloods. [[Thalia]] met with him and he confirmed that [[Oswald|Oswald]] was a monster. He told her that he worked in an underground area of a condemned research lab on the outskirts of the city, but it was more thoroughly trapped than the house from Home Alone.
 
 Finally:
 
