@@ -3,6 +3,9 @@ tags:
   - Sabbat
   - Tzimisce
   - NPC
+title: Annette
+aliases:
+  - Annette
 ---
 # Description
 *Description by the Storyteller*

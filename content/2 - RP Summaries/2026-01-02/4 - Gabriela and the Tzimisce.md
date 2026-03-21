@@ -1,4 +1,4 @@
-*2026-03-02 13:46 - 15:39, 16:40 - 18:34, 20:27 - 21:42 PST*
+> oh p*2026-03-02 13:46 - 15:39, 16:40 - 18:34, 20:27 - 21:42 PST*
 
 [[Gabriela]] ventured to [[Sutter Park]] to investigate a lead she'd picked up on a [[Tzimisce]]. Upon arriving, she was near immediately attacked by a [[Tzimisce]]. She managed to poison her blood and stake the assailant, incapacitating her. 
 

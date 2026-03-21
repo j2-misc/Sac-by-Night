@@ -12,7 +12,7 @@ Blood from each of the thirteen clans is required to awaken [[The Saint]][^1].
 - [x] [[Tremere]]
 - [ ] [[Ventrue]]
 
-- [ ] [[Brujah]]
+- [x] [[Brujah]]
 - [x] [[Gangrel]]
 - [ ] [[Ravnos]]
 - [ ] [[Setite]]
