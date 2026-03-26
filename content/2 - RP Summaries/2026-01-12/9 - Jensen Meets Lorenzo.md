@@ -4,6 +4,6 @@
 
 Then, he asked of [[Bernard|Father Bernard]]. 
 
-> "I do know [[Bernard|Father Bernard]]. He has joined our ministry, but tends to other matters on behalf of the church. He does not often spend time in the public areas of our Cathedral."
+> "I do know [[Bernard|Father Bernard]]. He has joined our ministry, but tends to other matters on behalf of the church. He does not often spend time in the public areas of our [[The Cathedral of Blessed Sacrament|Cathedral]]."
 
 [[Jensen]] used to be quite close with [[Bernard]], but hadn't seen him in some time. He asked if they could schedule a meeting but keep his identity anonymous. 

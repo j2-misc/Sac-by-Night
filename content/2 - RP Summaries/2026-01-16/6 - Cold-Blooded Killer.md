@@ -26,15 +26,15 @@ This was a collaboration. They weren't looking for one killer, but rather a hunt
 > *One of the pipe grates pops off, violently, the covering shooting across the room. Something lunges out, and lands in the center of this small chamber. An alligator, bigger then any these two have seen, releases a guttural roar. As suddenly, it shifts. Changes, into a bipedal figure. A woman, with caramel skin and curly brown hair, with slitted yellow eyes and a long tail that looks like that of an alligator. She wears tattered short cut pants and a t-shirt which reads "Stay Golden, Pony Boy" with a faded graphic. Finally, atop her head, is a cowboy hat.*
 > 
 > *She looks at the pair of them and grins.*
-> "Well, I'll be! Honest to goodness Camarilla!"
+> "Well, I'll be! Honest to goodness [[Camarilla]]!"
 > *She speaks like if you fused your average cowboy accent with...french?*
 
-She explained she was a member of the [[Sabbat]], a [[Scout]] for the [[Rangers]], here to see if the city was worth [[Inquisitor Ariel Angel|Inquisitor Angel]]'s time. [[Gabriela]] and [[Kiryu]] made some conversation, reached an impasse, and got to fighting. Thanks to some determined wrasslin' and Kiryu's trusty five-seven, they managed to beat [[Kymaw]]. But there was a second. [[Ypolta]].
+She explained she was a member of the [[Sabbat]], a scout for the [[Rangers]], here to see if the city was worth [[Inquisitor Ariel Angel|Inquisitor Angel]]'s time. [[Gabriela]] and [[Kiryu]] made some conversation, reached an impasse, and got to fighting. Thanks to some determined wrasslin' and [[Kiryu]]'s trusty five-seven, they managed to beat [[Kymaw]]. But there was a second. [[Ypolta]].
 
-> *Turning around, they see a skeletally thin woman, wearing almost stereotypical cowboy attire. She looks like if you put a corpse through a blender and pieces it back together again, except her mouth and jaw are unnaturally posable. The good news is, this nosferatu looks fairy easy to take in a fight. The bad news, is she has both her hands on her phone, holding it up.*
+> *Turning around, they see a skeletally thin woman, wearing almost stereotypical cowboy attire. She looks like if you put a corpse through a blender and pieces it back together again, except her mouth and jaw are unnaturally posable. The good news is, this [[nosferatu]] looks fairy easy to take in a fight. The bad news, is she has both her hands on her phone, holding it up.*
 > "Smile for the Special Affairs Division. If I lift my finger, this goes straight into their anonymous tip form."
 > *A sickly smile spreads.*
-> "Good job with Kymaw. She hasn't had a good fight in ages. She gets antsy. Sacramento is definitely worthy of the Inquisitors attention."
+> "Good job with [[Kymaw]]. She hasn't had a good fight in ages. She gets antsy. Sacramento is definitely worthy of the [[Inquisitor Ariel Angel|Inquisitor]]'s attention."
 
 [[Kiryu]] managed to shoot the phone out of her hand, and getting a lucky guess[^2], they managed to catch the [[Nosferatu]] [[Ypolta]] and apprehend her before she made off with the torpid [[Kymaw]].
 
@@ -46,9 +46,9 @@ She waded into the river and bled them like cattle, letting their bodies drift d
 
 > *When her vision returns and she sees two bodies floating down the river, one who'd looked human, both who she'd talked to. They spoke like people she'd met. She watches their bodies drift away, sunrise bound. Cut up, and shot, and beaten, and bloodless. It's a grisly sight. She looks down at herself, covered in blood. It's terrifying. Then, she remembers.*
 > 
-> *Gabriela hates vampires. Each time she's killed one she thinks of the one face: Marouth. Marouth was a tyrant. She tormented her village, killed her sister. She was the reason Gabriela chose to die, so that she could turn her to ash. She'd never felt remorse for any of the targets she'd killed because of this. Even the ones that looked human, and acted human, and begged to live, half lucid with a stake in their chest, poison in their veins. They were all monsters. They were all vampires. Like Marouth.*
+> *[[Gabriela]] hates vampires. Each time she's killed one she thinks of the one face: [[Marouth]]. [[Marouth]] was a tyrant. She tormented her village, killed her sister. She was the reason [[Gabriela]] chose to die, so that she could turn her to ash. She'd never felt remorse for any of the targets she'd killed because of this. Even the ones that looked human, and acted human, and begged to live, half lucid with a stake in their chest, poison in their veins. They were all monsters. They were all vampires. Like [[Marouth]].*
 > 
-> *She remembers her face. Then, she remembers last night. Her Marouth, inextricably blended with memories of the tyrant. Robbed of the anchor of her conviction, she flounders, trying to remember these are not people. These are vampires. She focuses on their inhumanity. She focuses on her own. She focuses on the blood on her body, and the disgusting act she'd just committed. She is disgusting. She is a vampire. They are vampires. They are disgusting. What just happened was good. They are monsters because she is a monster. And because they are monsters, she was right to kill them. This was a good thing. She's a monster, so she's human.* 
+> *She remembers her face. Then, she remembers last night. Her [[Marouth]], inextricably blended with memories of the tyrant. Robbed of the anchor of her conviction, she flounders, trying to remember these are not people. These are vampires. She focuses on their inhumanity. She focuses on her own. She focuses on the blood on her body, and the disgusting act she'd just committed. She is disgusting. She is a vampire. They are vampires. They are disgusting. What just happened was good. They are monsters because she is a monster. And because they are monsters, she was right to kill them. This was a good thing. She's a monster, so she's human.* 
 > 
 > *She stops thinking as soon as she is able. She's learned well how to leave an unsteady thought be. She crosses her heart, doesn't think about what that means, and wades out of the water.*
 

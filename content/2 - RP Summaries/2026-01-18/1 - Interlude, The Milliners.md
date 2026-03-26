@@ -1,8 +1,9 @@
 *2026-03-21 16:31 - 16:32 PST*
 
+# Preamble
 *Written by Jackal's player*
 
-**January 18th, Night after the Gala**
+ **January 18th, Night after the Gala**
 
 The night began like any other. The setting of the sun saw the ushering in of Corabelle and Ariadne. Corabelle made for the window, opening the drapes and letting the light of the stars in. Tonight the Moon was new and well hidden away from sight and so its radiance was not added to that of the stars. Ariadne, meanwhile, was the chalice bearer waiting dutifully at the side of the canopy bed where a Kindred slept, arms folded across his chest, and now began to rouse.
 
@@ -22,4 +23,20 @@ This one was marked with the wax seal of the Family. The Kindred made another cu
 
 Slowly, he loosened his grip on the letter. The paper fell from his grasp, drifting to the floor. He raised a hand, indicating for Corabelle and Ariadne to cease their preparations. His cousins responded quickly, making only a small series of final trimmings for the sake of propriety before backing away and allowing the Kindred to rise from his seat.
 
-The Kindred made his way with purposeful strides to the door of his room. He hesitated for only a moment, his gaze turning back to look out at the stars through his window. And then the moment passed and Jasper Ernesto Rosellini-Milliner fled from the room.
+The Kindred made his way with purposeful strides to the door of his room. He hesitated for only a moment, his gaze turning back to look out at the stars through his window. And then the moment passed and [[Jasper|Jasper Ernesto Rosellini-Milliner]] fled from the room.
+# Body
+[[Jasper]] was dropped off at [[Fiora]]'s residence by a servant of [[the Dunsirns]] and let inside. [[Fiora]], his aunt, confirmed what he'd heard, that [[Ernesto Giovanni|Ernesto Giovanni]] had been killed, and that it had been at the hands of [[Mazhar]], a [[Cappadocian]]. These were strange times. [[Fiora]] asked for his support in her bid to become the next [[Anziani]], as there'd be threats to her reign. Kindred of the other sects had immediately began pecking at the [[Giovanni]] like vultures, moving to ensure their replacement rose to the top.
+
+Additionally, interestingly, at the [[Anziani Summit]], there would be kindred outside of the family in attendance.
+
+> "Unfortunately, [[Ernesto Giovanni|Ernesto]] made some sort of business deal with the [[Camarilla]], right before he passed. I doubt they will let his passing nullify his deal."
+> *[[Fiora]] briefly adds,*
+> "Besides, I would feel comfortable knowing that others know and respect who shall become [[Anziani]]."
+> "This is unheard of, yes. So is the murder of an elder in these times, at the hands of a [[Cappadocian]] no less."
+
+Finally, before he left, she warned him not to attract any attention.
+
+> "I know you do. Just lay low. Don't attract any attention."
+> *She insists firmly.*
+> *[[Fiora]] says this not as a kind-hearted suggestion, but rather as a warning. Don't interfere.*
+

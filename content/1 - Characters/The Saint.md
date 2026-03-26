@@ -1,8 +1,8 @@
 ---
 tags:
-  - Malkavian
   - NPC
   - Lasombra
+  - Methuselah
 aliases:
   - Saint
   - Saint Lucia Santos

@@ -14,7 +14,7 @@ Then, she called [[Ally Barnes|Ally]] to check in. She was of two minds about th
 
 Then, she checked on [[Roger]]. Apparently some kid had died in the crossfire at the gala. He didn't like [[Javier]], thought he was stupid and running the clan into the ground with inane plans. He suggested the following:
 
-> *Roger takes some time to think.*
+> *[[Roger]] takes some time to think.*
 > "Here's what you do. Get him sold on an idea you come up with. One that's actually productive, as you say. Then make him think it's his idea."
 > "He's like, hm, a bull. Show him a red flag, and he'll run where you want to go."
 

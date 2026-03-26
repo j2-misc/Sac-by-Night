@@ -17,29 +17,29 @@ She asked why they were there and they asked about her relation to [[Mercutio Gi
 
 > "In a way. He is like an uncle of sorts, someone who treated me with quite a great deal of respect. Someone who insisted I be given the same opportunities for success and prestige as those in my family with the [[Giovanni]] surname."
 
-> *kaveh having been curious about this for a while asks* "May I ask why you gave up the surname Giovanni? You said it was milliner now yes?"
+> *[[Kaveh]] having been curious about this for a while asks* "May I ask why you gave up the surname [[Giovanni]]? You said it was [[Giovanni|Milliner]] now yes?"
 
-> *That question seems to leave Fiora with a bad taste.*
+> *That question seems to leave [[Fiora]] with a bad taste.*
 > "I will forgive your ignorance this once."
 
-> "The Giovanni family casts a wide umbrella. Not *all* Giovannis are called Giovanni. One such family under this umbrella is the Milliner family, of which I belong to. Do you understand?"
+> "The [[Giovanni]] family casts a wide umbrella. Not *all* [[Giovanni|Giovannis]] are called [[Giovanni]]. One such family under this umbrella is the [[Giovanni|Milliner]] family, of which I belong to. Do you understand?"
 > *She asks, with a condescending tone.*
 
-> "I sincerely apologize Ms.fiora" *he seems to panic a little, it's very clear that he didn't mean to offend her* "I was unaware of the fact... Mr mercutio never told me about this" *he says rubbing the back of his neck*
+> "I sincerely apologize Ms.[[Fiora]]" *he seems to panic a little, it's very clear that he didn't mean to offend her* "I was unaware of the fact... Mr [[Mercutio Giovanni|Mercutio]] never told me about this" *he says rubbing the back of his neck*
 
-> "Mercutio did not tell you this because he had the decency and wisdom to treat me as a Giovanni first, a Milliner second."
+> "[[Mercutio Giovanni|Mercutio]] did not tell you this because he had the decency and wisdom to treat me as a [[Giovanni]] first, a [[Giovanni|Milliner]] second."
 > "For that, I owe him. What I don't understand is why he sent an old blacksmith and his runt apprentice."
 
 Finally, they explained that they were sent by [[Mercutio Giovanni|Mercutio]] to get her to visit more often, and to return her to the faith. The former she could do, the latter she was uninterested in. It was provably untrue. She was literally a necromancer, and [[Mercutio Giovanni|Mercutio]] a ghost who would never see heaven or hell because they did not exist.
 
-> "The Giovanni is a clan of necromancers. People who speak to, visit, and bring back the dead. The Resurrection of Christ is your big miracle. It's my Tuesday."
+> "The [[Giovanni]] is a clan of necromancers. People who speak to, visit, and bring back the dead. The Resurrection of Christ is your big miracle. It's my Tuesday."
 
 In the end, they didn't re-Christianize her, but she would visit her uncle. And that was enough. In exchange, she provided [[Kaveh]] a ritual to store blood in objects. They nearly fumbled the dismount in asking [[Fiora]] to get them in the room with [[Ernesto Giovanni|Ernesto]]. She wasn't particularly happy about it, but...
 
-> *Fiora simply asks Jensen a question.*
-> "Are you actually prepared to talk with Ernesto?"
+> *[[Fiora]] simply asks [[Jensen]] a question.*
+> "Are you actually prepared to talk with [[Ernesto Giovanni|Ernesto]]?"
 
-> *He looks at Kaveh, and then back to Fiora.*
+> *He looks at [[Kaveh]], and then back to [[Fiora]].*
 > "Yes."
 
 > "Your funeral."

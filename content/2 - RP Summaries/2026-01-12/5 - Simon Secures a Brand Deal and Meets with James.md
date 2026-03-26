@@ -17,10 +17,10 @@ The two rung the doorbell a few times, but there was no answer. [[Simon]], able 
 
 [[Simon]] told her who they were, and that they were sent by [[Amalia|Amalia White]]. Reluctantly, she let them in. He requested she only provided dress to the [[Camarilla]] for the upcoming gala, but she refused.
 
-> *Sim nods.* "See, Miss White expected you to say that." *He says and keeps his smile on.* "Miss White has asked me to remind you that it was thanks to Gloria Wyles that your business is what it is right now." *He looks around her house with curiosity.* "You've done well for yourself, I see. And Miss White would love to ensure that you keep doing well for yourself. She mentioned writing you big cheques if that's what it takes to keep your business flourishing... and exclusive."
+> *Sim nods.* "See, Miss White expected you to say that." *He says and keeps his smile on.* "[[Amalia|Miss White]] has asked me to remind you that it was thanks to [[Gloria Wyles]] that your business is what it is right now." *He looks around her house with curiosity.* "You've done well for yourself, I see. And Miss White would love to ensure that you keep doing well for yourself. She mentioned writing you big cheques if that's what it takes to keep your business flourishing... and exclusive."
 
-> *The offer of money entices Patricia, but the mention of Gloria sours the mood further. Calimastia can tell that name scares Patricia.*
-> "That old bat is gone. I don't owe *her* anything. I appreciate Amalia's money, but I'll lose even more if I cut out an entire market."
+> *The offer of money entices [[Patricia Rodman|Patricia]], but the mention of [[Gloria Wyles|Gloria]] sours the mood further. [[Calimastia]] can tell that name scares Patricia.*
+> "That old bat is gone. I don't owe *her* anything. I appreciate [[Amalia]]'s money, but I'll lose even more if I cut out an entire market."
 
 [[Simon|Sim]] offered this could be her opportunity to start fresh, and that [[Amalia|Lady White]] was more than happy to provide additional funding. [[Calimastia]] added that she'd gain earnest protection from any interference[^2].
 
@@ -40,15 +40,15 @@ Apparently, [[Amalia]] used to be married to one [[Darius|Darius White]]. Suppos
 
 Eventually, he returned to [[Amalia]] with the dress, she paid him a handsome sum of cash, and he asked her to save him a dance. Then, [[Simon]] called [[James]]. Just as he thought he'd been ignored, his sire picked up. He reported what he'd been up to lately, and firmly told him he was ready to learn about fire. [[James]] invited him to a cup of coffee. This was incredibly out of character for [[James]].
 
-> "Coffee?? James, have you been drinking for real??" *Sim asks, a frown appearing slowly on his face. He starts walking towards his bike.* "Clear your throat if you are in danger?" *He says, knowing his heart would be beating fast as fuck if he were alive.*
+> "Coffee?? [[James]], have you been drinking for real??" *[[Simon|Sim]] asks, a frown appearing slowly on his face. He starts walking towards his bike.* "Clear your throat if you are in danger?" *He says, knowing his heart would be beating fast as fuck if he were alive.*
 
-> *James clears his throat.*
+> *[[James]] clears his throat.*
 > "I'm a little tied up with some Chantry business, but I'll do my best to teach you about those paths you asked me about."
 
-> "Sigh annoyedly if it's about [[Jacobi]] and the item you gave me last night[^3]." *Sim says, keeping his tone even, just in case someone might be listening.*
+> "Sigh annoyedly if it's about [[Jacobi]] and the item you gave me last night[^3]." *[[Simon|Sim]] says, keeping his tone even, just in case someone might be listening.*
 > *But he is totally twitching and cracking his neck as he mounts his bike.*
 
-> *James sighs.*
+> *[[James]] sighs.*
 > "I'm afraid I've got to return to my business. Don't forget about the coffee now, you hear?"
 
 [[Simon]] called up [[Calimastia]] as he hopped on his bike. He told her that he thought he was in trouble with [[Jacobi]]. Then he hung up and hurried to the coffee shop. The shop was closed, but [[James]] eventually stumbled along, seemingly not followed by anyone as far as auspex could reveal.
@@ -57,11 +57,11 @@ Eventually, he returned to [[Amalia]] with the dress, she paid him a handsome su
 
 When asked, he revealed he hadn't yet had the chance to study the relic, as he'd been too busy with *everything*.
 
-> "I'm not cross with you, *putain*!" *[[Simon]] hisses.* "I'm fucking ***worried*** espèce de grand con!" *He states.* "We are on thin fucking ice in here James. I got shot last week, there's a Revenant throwing parties everywhere in town, I have just heard something real strange about [[Amalia|Miss White]], and you went Arsène Lupin on our crazy cunt of an [[Jacobi|Archmage]]!"
-> "And now you tell me that there's an assassination plot concerning Jacobi??" *He adds and takes a cigarette out, lighting it.* "Who do you suspect?" *He asks and starts pacing, cracking his neck loudly.*
+> "I'm not cross with you, *putain*!" *[[Simon]] hisses.* "I'm fucking ***worried*** espèce de grand con!" *He states.* "We are on thin fucking ice in here [[James]]. I got shot last week, there's a Revenant throwing parties everywhere in town[^4], I have just heard something real strange about [[Amalia|Miss White]], and you went Arsène Lupin on our crazy cunt of an [[Jacobi|Archmage]]!"
+> "And now you tell me that there's an assassination plot concerning [[Jacobi]]??" *He adds and takes a cigarette out, lighting it.* "Who do you suspect?" *He asks and starts pacing, cracking his neck loudly.*
 
-> "There are some names, people who believe I'm on their side. Leon the Alabaster is one. He and his coterie have asked me how I feel about the Primogen, encouraging me to see their point of view."
-> "I fear they are going to take extreme measures. I only wish to remove the relics from the Archmage's custody, I fear they are going to remove the Archmage."
+> "There are some names, people who believe I'm on their side. [[Leon|Leon the Alabaster]] is one. He and his coterie have asked me how I feel about the [[Primogen]], encouraging me to see their point of view."
+> "I fear they are going to take extreme measures. I only wish to remove the relics from the [[Jacobi|Archmage]]'s custody, I fear they are going to remove the [[Jacobi|Archmage]]."
 
 [[James]] wanted to take away the relics, assured that if they did so, he'd return to his normal, sane self. [[Simon]] questioned if it would even be so bad if he was replaced. Ultimately, they decided to protect the archmage, try to convince him to give up the relics, and steal them if need be. After all this was said and done, perhaps they'd go back home to Europe.
 
@@ -78,10 +78,12 @@ When asked, he revealed he hadn't yet had the chance to study the relic, as he'd
 
 > "I will. Where. When. How?" *Sim replies.*
 
-> *Sim gets no clear answers, only an insistence that Sim take arms against this Saint. The voice persists even as Sim winds down the night.*
+> *[[Simon|Sim]] gets no clear answers, only an insistence that [[Simon|Sim]] take arms against this [[The Saint|Saint]]. The voice persists even as [[Simon|Sim]] winds down the night.*
 
-[^1]: If you see this, remind me to link the gala when it happens
+[^1]: [[0 - The Gala, Overview]]
 
 [^2]: This was not something the [[Hound of the Sheriff]] could guarantee
 
 [^3]: [[1 - Simon Gets a Call]]
+
+[^4]: [[KCRA News Archive#Party of Your Life]], [[1 - Party of Your Life]]

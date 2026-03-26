@@ -2,7 +2,7 @@
 
 [[Kingsnake]] brought [[Thalia]] back to her room at the [[Sacramento History Museum]]. There, she woke her up with a bit of her own vitae, and they talked about what had happened. After expressing some initial concern over [[Thalia]]'s decision making, [[Kingsnake]] explained from her perspective.
 
-> "Javier frenzied over you, started fighting the Talon, and all hell broke loose in there. I was running with Neres and I saw you there on the floor and ran back to get you. Last thing I saw as I was carrying you out was Ernesto Giovanni getting turned to dust with a single touch by that walking corpse."
+> "[[Javier]] frenzied over you, started fighting [[The Talon]], and all hell broke loose in there. I was running with [[Neres]] and I saw you there on the floor and ran back to get you. Last thing I saw as I was carrying you out was [[Ernesto Giovanni]] getting turned to dust with a single touch by that walking corpse."
 > "Then there was this spreading darkness as we were trying to run, and I think a few ghouls started choking to death. We got to the car, I didn't know where else to take you, and now you're here."
 > *She gestures to the room.*
 
@@ -12,9 +12,9 @@ Then, [[Thalia]] mentioned a compulsion to meet with [[Luke Grayson|Luke]] alone
 
 After reporting back, [[Thalia]] flirted with [[Kingsnake]] and left to call [[Kiri]] to pick her up. This did not go well. [[Javier]] was pissed and said she owed him a major boon for having to save her from [[The Talon]], and [[Kiri]] was pissed because she actually liked [[Javier]]'s plan.
 
-> *Sad. But expected. She doesn't want to accelerate her plan, she really doesn't. How to make this work... hm.* "I get that. It tempted me too. But I don't think killing a bunch of innocent Giovanni, even if it might have benefited us, would have been the right thing to do. And frankly, I have no desire to fight a two front war. You can be mad at me, I get it. It was a tempting offer. But I think that we can end this war without having to work with these kind of monsters. What's the point in winning this, if we lose our morals in the process?"
+> *Sad. But expected. She doesn't want to accelerate her plan, she really doesn't. How to make this work... hm.* "I get that. It tempted me too. But I don't think killing a bunch of innocent [[Giovanni]], even if it might have benefited us, would have been the right thing to do. And frankly, I have no desire to fight a two front war. You can be mad at me, I get it. It was a tempting offer. But I think that we can end this war without having to work with these kind of monsters. What's the point in winning this, if we lose our morals in the process?"
 
-> "There you go about morals, again. You think the Giovanni are oh so innocent, the incest ghoul slave breeders?"
+> "There you go about morals, again. You think the [[Giovanni]] are oh so innocent, the incest ghoul slave breeders?"
 
 > "I don't think they deserve to be slaughtered, no. You are right. Maybe I care to much about morals. Maybe we do thing differently. I made a judgement call. Maybe I fucked things up. But I don't relish in violence like you, okay."
 

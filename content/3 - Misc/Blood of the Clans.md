@@ -18,7 +18,7 @@ Blood from each of the thirteen clans is required to awaken [[The Saint]][^1].
 - [ ] [[Setite]]
 
 - [ ] [[Giovanni]]
-- [ ] [[Lasombra]]
+- [x] [[Lasombra]]
 - [ ] [[Tzimisce]]
 
 [^1]: [[3 - Gabriela Joins a Cult]]

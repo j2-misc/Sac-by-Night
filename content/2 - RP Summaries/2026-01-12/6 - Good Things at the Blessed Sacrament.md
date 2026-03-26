@@ -6,7 +6,7 @@
 
 They spoke of [[Kaveh]] and how he came speaking of [[The Saint]][^1], and how they would need to truly Embrace [[Jensen]] so he might reconcile with [[Bernard]].
 
-> "There is no such thing as coincidence. As such, we must act with resolve. We must speak with the sons of the Anarchs, perhaps even the sons of the Camarilla, if we are to beckon a new age of peace."
+> "There is no such thing as coincidence. As such, we must act with resolve. We must speak with the sons of the [[Anarchs]], perhaps even the sons of the [[Camarilla]], if we are to beckon a new age of peace."
 
 [[Frances]] had much to think about as he wandered into the night.
 

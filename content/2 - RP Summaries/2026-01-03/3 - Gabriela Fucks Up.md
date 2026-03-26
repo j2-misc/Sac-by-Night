@@ -17,7 +17,7 @@ She cuffed the dealer, though they certainly weren't getting any blood from him.
 
 ---
 
-Angry, hungry, and without any better ideas, [[Gabriela]] went to [[Sutter Park]] to confront [[Marouth]] directly. She snuck into the museum, which [[Marouth]] had transformed into a makeshift living space. [[Gabriela]] waited for [[Marouth]] to return then punched her in the stomach as soon as she got comfortable. She chastised her, asked her what she was thinking with being here or her actions recently, comparing her to [[Marouth (Old)|another Marouth]].
+Angry, hungry, and without any better ideas, [[Gabriela]] went to [[Sutter Park]] to confront [[Marouth]] directly. She snuck into the museum, which [[Marouth]] had transformed into a makeshift living space. [[Gabriela]] waited for [[Marouth]] to return then punched her in the stomach as soon as she got comfortable. She chastised her, asked her what she was thinking with being here or her actions recently, comparing her to [[Marouth (Sire)|another Marouth]].
 
 [[Marouth]] snapped back, that [[Gabriela]] was a traitor, to her. For joining her clan's greatest enemy, kidnapping her newly embraced progeny, ambushing her in her own abode.
 

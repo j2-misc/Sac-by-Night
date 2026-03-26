@@ -1,6 +1,10 @@
 ---
 aliases:
   - Blood Bank
+tags:
+  - Location
+  - Camarilla
+  - Malkavian
 ---
 # Description
 A blood bank owned by [[Reginald|Reginald King]] and operated by Clan [[Malkavian]].

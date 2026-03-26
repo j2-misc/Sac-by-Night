@@ -4,6 +4,7 @@ tags:
   - Sect
 aliases:
   - The Ivory Tower
+  - Ivory Tower
 ---
 An organized, traditionalist sect of vampires who strictly enforce the Masquerade, among other traditions[^1].
 

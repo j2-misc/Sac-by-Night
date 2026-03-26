@@ -4,6 +4,8 @@ tags:
   - Camarilla
   - NPC
 title: The Talon
+aliases:
+  - Talon
 ---
 # Description
 *Written by the Storyteller*

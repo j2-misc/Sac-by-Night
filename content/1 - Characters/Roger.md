@@ -4,6 +4,8 @@ tags:
   - Gangrel
   - NPC
   - Anarchs
+  - Oldies
+  - Camarilla
 aliases:
   - Roger Sukui
 ---

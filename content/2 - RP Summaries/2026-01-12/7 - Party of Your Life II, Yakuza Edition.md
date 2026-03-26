@@ -6,7 +6,7 @@
 
 He headed to her dorm. Even from afar, he could tell there was a raging party. He went in to try and find [[Holly Zantosa|Holly]]. Then, he felt a hand on his shoulder.
 
-> *Behind him is a pretty attractive man, with a low cut suit jacket, a bit of a tan, and nice slacks. He looks a little old for this type of party, more into his late 20's.*
+> *Behind him is a pretty attractive man, with a low cut suit jacket, a bit of a tan, and nice slacks. He looks a little old for this type of party, more into his late 20's[^2].*
 > "Hey man. Watcha doing here?"
 
 He managed to persuade the man to allow him to go about his business. He relented and asked who he was looking for.
@@ -30,4 +30,6 @@ He thought of his wife, and his bar, and how overconfidence had gotten the bette
 > "I came back here, found you laying in a pile. Note reads: "'You owe me.' Very strange."
 > "As I said, you did good. You get a minor boon from me. Go and rest."
 
-[^1]: He got lucky and found user credentials for [[Jason Grimaldi]] on a sticky note
+[^1]: He got lucky and found user credentials for Jason Grimaldi on a sticky note
+
+[^2]: [[Fred Zantosa]]

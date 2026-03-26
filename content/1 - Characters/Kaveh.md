@@ -7,6 +7,7 @@ aliases:
   - Kaveh S Falcrone
   - Kaveh Sindri Falcrone
   - Kaveh Falcrone
+  - Falcrone
 title: Kaveh Sindri Falcrone
 ---
 # Description

@@ -1,6 +1,7 @@
 ---
 tags:
   - Sabbat
+  - Pack
 ---
 A [[Sabbat]] pack which [[Calimastia]] was tasked with destroying back when [[Prince]] [[Dorian]] walked the earth[^1].
 

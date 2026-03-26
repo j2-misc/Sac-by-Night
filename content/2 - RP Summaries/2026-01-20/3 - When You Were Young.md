@@ -4,14 +4,14 @@
 
 Along the way, [[Gabriela]] confronted him about being an [[Anarchs|Anarch]], and though he denied it, she found out quick enough that he gets paid to do community watch, by [[Ally Barnes|Ally]]. She told him to stop involving [[Sam]] in anything dangerous, and he defensively claimed the [[Camarilla]] was the real danger. She ushered him out and returned to [[Sam]].
 
-> *Sam looks pissed when Gabriela enters.*
+> *[[Sam]] looks pissed when [[Gabriela]] enters.*
 > "Why did you do that? You could have hit him."
 
 > "You're not allowed to invite anyone over without telling me first."
 
 > "If I meant to hit him, he'd still be torpid. Relax."
 
-> *Sam doesn't relax.*
+> *[[Sam]] doesn't relax.*
 > "You've been really unfair to me, you know."
 
 > "Unfair? What-" 
@@ -26,16 +26,16 @@ What followed was a rather tense argument, though it turned out better than ones
 
 > "They aren't my team."
 
-> *Sam gets increasingly frustrated and impatient.*
-> "They clearly are! You don't warn me not to go hang out with Camarilla people. You don't warn me to avoid Camarilla places."
+> *[[Sam]] gets increasingly frustrated and impatient.*
+> "They clearly are! You don't warn me not to go hang out with [[Camarilla]] people. You don't warn me to avoid [[Camarilla]] places."
 
-> "I haven't warned you about them because you aren't going to Camarilla places or speaking with Camarilla people. They're far more dangerous than a bunch of idiot fledgelings with guns."
+> "I haven't warned you about them because you aren't going to [[Camarilla]] places or speaking with [[Camarilla]] people. They're far more dangerous than a bunch of idiot fledgelings with guns."
 
 In the end, [[Sam]] halfheartedly agreed to hang out someplace safer, and tell her where she's going. Then, [[Gabriela]] apologized about [[Roy]]. [[Sam]] thought he was really nice, and sweet, but [[Gabriela]] didn't seem to really buy it.
 
 > "He's a nice guy! It'll be fine. Don't worry so much."
 > "Hey, actually, do you have a boyfriend?"
-> *Sam asks.*
+> *[[Sam]] asks.*
 
 This sort of questioning continued, [[Gabriela]] barely managing to avoid the question and only giving a definitive no when [[Sam]] asked if she had a girlfriend instead.
 

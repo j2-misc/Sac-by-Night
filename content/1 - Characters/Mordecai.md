@@ -1,6 +1,8 @@
 ---
 tags:
   - NPC
+  - Lasombra
+  - Inquisition
 aliases:
   - Hayes
   - Lieutenant Hayes

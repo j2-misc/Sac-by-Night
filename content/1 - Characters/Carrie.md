@@ -3,6 +3,8 @@ tags:
   - NPC
   - Brujah
   - Camarilla
+  - Anarchs
+  - Oldies
 aliases:
   - Carrie Bryant
 title: Carrie Bryant

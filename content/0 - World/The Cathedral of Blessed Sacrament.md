@@ -5,6 +5,7 @@ tags:
 aliases:
   - The Cathedral
   - The Blessed Sacrament
+  - Cathedral
 ---
 # Description
 *Written by the Storyteller*

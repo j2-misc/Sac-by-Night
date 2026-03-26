@@ -16,11 +16,11 @@ After escaping [[Palazzo Giovanni]], [[Calimastia]], [[The Jackal|Jackal]], and 
 
 [[Vale]] eventually dropped off [[Calimastia]], [[Simon|Sim]], and [[Kiryu]]. [[The Jackal]] remained, though.
 
-> *Jackal intentionally delays until after the other Camarilla members have departed the vehicle.*
+> *[[The Jackal|Jackal]] intentionally delays until after the other [[Camarilla]] members have departed the vehicle.*
 > 
-> "My apologies for the tense words. The turn this night took has left me off balanced. But you and I did good work, o scholar mine. We knocked down an Ancient. Few Kindred can make that claim and still pretend to draw breath." *The Jackal laughs dryly before directing Vale to an intersection.* "This is a location of one of my deaddrops. The brick on the second row third from the left is false. You can leave a message behind it. Dislodge that railing to indicate you have left something. Tonight bodes ill. I shall rest, but it appears there is no time to delay our work."
+> "My apologies for the tense words. The turn this night took has left me off balanced. But you and I did good work, o scholar mine. We knocked down an Ancient. Few Kindred can make that claim and still pretend to draw breath." *[[The Jackal]] laughs dryly before directing Vale to an intersection.* "This is a location of one of my deaddrops. The brick on the second row third from the left is false. You can leave a message behind it. Dislodge that railing to indicate you have left something. Tonight bodes ill. I shall rest, but it appears there is no time to delay our work."
 
-> *Having dropped the others off, Vale listens to Jackal quietly. He continues driving circling the intersection a moment before pulling into a parking spot and looks back through the window. Letting the sunroof open to see the stars once more.* 
+> *Having dropped the others off, [[Vale]] listens to Jackal quietly. He continues driving circling the intersection a moment before pulling into a parking spot and looks back through the window. Letting the sunroof open to see the stars once more.* 
 > 
 > "Yes... an ominous night for sure. I now absolutely believe our meeting was fate especially after what we did o Scholar mine. Tell me, do you believe in such a thing? That things in the universe happen in unity with one another to create such a thing as fate? Even small things like our meeting. I do, because as much as I can control there is an infinite amount more I can't. And yet, here we are, having survived an encounter with one of the Ancients."
 
@@ -28,7 +28,7 @@ After escaping [[Palazzo Giovanni]], [[Calimastia]], [[The Jackal|Jackal]], and 
 > 
 > "I do. I am not sure why. I have no memory of any teachings which would give me such a belief. But it is one of the few things which I know. Each human possesses a shard of Unity within them. I believe Kindred to hold these shards, so long as they hold onto their humanity. The potential of this Unity can be realized realize by coming together. Unity grows strong when unified."
 > 
-> *The Jackal stares up to the stars.*
+> *[[The Jackal]] stares up to the stars.*
 > 
 > "I believe in connection, even if I do not necessarily belong to fate. All were once one in creation. It only makes sense to me that two souls might be drawn together by a shared cause of Unity. We have survived an encounter with the Ancients indeed. Our thread is not yet frayed."
 

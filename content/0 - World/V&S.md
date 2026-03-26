@@ -1,8 +1,8 @@
 ---
 tags:
   - Camarilla
+  - Misc_Org
 ---
-
 # Description
 A construction company with ties to the [[Jacobi]] family.
 # Recent History

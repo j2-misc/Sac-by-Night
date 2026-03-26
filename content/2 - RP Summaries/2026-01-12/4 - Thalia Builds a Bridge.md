@@ -2,7 +2,7 @@
 
 [[Thalia]] went to see [[Joey]]'s band at [[Serena Bar]]. After the show, they stepped outside to talk.
 
-> *Joey steps outside, lightning up a cigarette. When Thalia approaches, she asks,*
+> *[[Joey]] steps outside, lightning up a cigarette. When [[Thalia]] approaches, she asks,*
 > "What do you want?"
 
 > "I don't want anything from you." *She holds up her hands in a friendly gesture.* "I just wanted to check in on you. Make sure you are doing alright, after what you did for us. And besides- you did us a favor so if there is something you need, I'm happy to do it."
@@ -11,7 +11,7 @@
 
 > "That's stupid. Makes no fucking sense. But, and this is also probably a stupid question, but who decides the harpy?"
 
-> "The Prince, who my mom has by his shriveled ancillae balls."
+> "The [[Prince]], who my [[Amalia|mom]] has by his shriveled ancillae balls."
 
 Then, [[Thalia]] asked [[Joey]] about [[Amalia]]'s suspicious aura. [[Joey]]'s hesitation betrayed that it was a worthwhile line of questioning, though not one [[Thalia]] would pursue then. What ensued instead was a discussion about building bridges, and radicals on both sides of the war.
 
